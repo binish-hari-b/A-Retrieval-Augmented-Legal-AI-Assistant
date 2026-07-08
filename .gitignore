@@ -1,0 +1,19 @@
+# Model weights
+models/
+
+# Generated vector store
+vector_store/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
