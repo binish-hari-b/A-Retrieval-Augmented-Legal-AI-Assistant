@@ -133,7 +133,6 @@ OSIRIS
 # Model Weights
 
 The pretrained Llama 3.2 1B Instruct model weights are **not included** due to GitHub file size limitations.
-
 Download the official model weights separately and place them inside the `models` directory before running the project.
 
 ---
